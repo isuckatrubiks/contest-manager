@@ -5,6 +5,6 @@ Allows adding contestants and exporting to CSV
 
 Randomized submissions
 # How to use
-Click on "run-this.exe"
+Click on "run_this.exe"
 
 © isuckatrubiks
